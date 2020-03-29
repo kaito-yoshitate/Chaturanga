@@ -15,3 +15,6 @@
 
 ## ユーザーストーリーの詳細
 [リンク先](https://trello.com/b/LlOHZtzV/chaturangauserstory)を参照
+
+## 参考資料
+- [予測市場シミュレーションのためのエージェント群構成法](https://www.dropbox.com/s/uwoy8po8798cyl4/system_249.pdf?dl=0)  
